@@ -1,2 +1,4 @@
 # duoshuo
 duoshuo
+
+embed.js
